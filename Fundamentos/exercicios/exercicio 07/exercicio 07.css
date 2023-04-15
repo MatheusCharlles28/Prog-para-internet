@@ -1,0 +1,60 @@
+table
+{
+    border-color: #dddddd;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+.azulceleste
+{
+    color: #1398be;
+}
+.azulmarinho
+{
+    color: #003366;
+}
+.laranja
+{
+    color: #de9800;
+}
+.cinza
+{
+    color: #cccccc;
+}
+.vermelho
+{
+    color: #c91b04;
+}
+.classificacao
+{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.nomedostimes
+{
+    font-size: 14px;
+    color: #666666;
+    font-weight: bold;
+    text-align: left;
+}
+.pontosdostimes
+{
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.demaiscolunas
+{
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+}
+.titulosdascolunas
+{
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;
+    text-align: center;
+    background-color: #f7f7f7;
+}
