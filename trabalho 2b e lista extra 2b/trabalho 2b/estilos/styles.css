@@ -1,0 +1,14 @@
+body {
+    background-color: darkgray;
+    font-family: monospace;
+}
+input {
+    background-color: white;
+}
+button {
+    background-color: white;
+}
+h2 {
+    color: white;
+    background-color: black;
+}
